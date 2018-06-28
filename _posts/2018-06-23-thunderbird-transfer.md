@@ -42,11 +42,11 @@ And I wanted my email to be stored in
 
 These are the steps I followed to move my profile and mail:
 
-1) I copied my profile folder `xxxxxxxx.default` from my Windows machine to the Macbook placing it next to the existing profile `yyyyyyyy.default` and copied my email from `D:\Email` to `/Users/Francesco/Email`.
-2) Opened the Thunderbird Profile Manager by running: `/Applications/Thunderbird.app/Contents/MacOS/thunderbird-bin -ProfileManager` from the terminal.
-3) Select "Create new profile", choose a name for your profile and then click "Choose folder" select the folder you just copied.
-4) At this point you're ready to start Thunderbird but your email location will be the interal folder in your profile. We will change this in the next step but to avoid downloading new messages to the wrong location I suggest you disable your network connection.
-5) Start Thunderbird, your email will be missing. Open Tools -> Account Settings and change the location to your new folder. ![Mail location](/assets/posts/2018-06-23-thunderbird-transfer/mail_location.png "Mail location")
-6) Thunderbird will restart and you're done.
+1. I copied my profile folder `xxxxxxxx.default` from my Windows machine to the Macbook placing it next to the existing profile `yyyyyyyy.default` and copied my email from `D:\Email` to `/Users/Francesco/Email`.
+2. Opened the Thunderbird Profile Manager by running: `/Applications/Thunderbird.app/Contents/MacOS/thunderbird-bin -ProfileManager` from the terminal.
+3. Select "Create new profile", choose a name for your profile and then click "Choose folder" select the folder you just copied.
+4. At this point you're ready to start Thunderbird but your email location will be the interal folder in your profile. We will change this in the next step but to avoid downloading new messages to the wrong location I suggest you disable your network connection.
+5. Start Thunderbird, your email will be missing. Open Tools -> Account Settings and change the location to your new folder. ![Mail location](/assets/posts/2018-06-23-thunderbird-transfer/mail_location.png "Mail location")
+6. Thunderbird will restart and you're done.
 
 You can optionally open the profile manager again to remove the previous default profile Thunderbird had created.

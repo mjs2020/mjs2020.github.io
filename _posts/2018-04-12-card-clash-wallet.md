@@ -1,9 +1,9 @@
 ---
 layout: single
+title: DIY RFID Shield Wallet 
 header:
   teaser: /assets/posts/2018-04-12-card-clash-wallet/teaser.jpg
 ---
-# DIY RFID Shield Wallet 
 
 Although Contactless cards on [Transport for London](https://tfl.gov.uk/) (Tfl) have benefits like daily and weekly caps, they unfortunately don't support Monthly or Yearly travelcards for which you still need an Oyster card. However with contactless becoming more and more of a standard on credit and debit cards, card clash seems inevitable as TfL always reminds you.
 

@@ -1,9 +1,9 @@
 ---
 layout: single
+title: Transfering Thunderbird profile and email archive from Windows to OSX
 header:
   teaser: /assets/posts/2018-06-23-thunderbird-transfer/teaser.png
 ---
-# Transfering Thunderbird profile and email archive from Windows to OSX
 
 I've been a long term Thunderbird fan. Although I use it less and less for my daily email I still use it to keep my own email archive (with some emails dating back to 1998!).
 

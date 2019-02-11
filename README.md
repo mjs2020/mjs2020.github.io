@@ -12,6 +12,8 @@ Run `bundle install`
 
 ## Running
 
-`bundle exec jekyll serve`
+Run site locally: `bundle exec jekyll serve`
+
+Run site and show drafts: `bundle exec jekyll serve --drafts`
 
 [Theme guidance](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)

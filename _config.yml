@@ -12,16 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Francesco Merletti's Blog"
+title                    : "blog.fm.to.it"
 title_separator          : "-"
 name                     : "Francesco Merletti"
 email                    : "me@fm.to.it"
-description              : >
-  "Francesco Merletti's blog"
+description              : "Francesco Merletti's blog"
 url                      : "https://blog.fm.to.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjs2020/mjs2020.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,7 +90,7 @@ analytics:
 author:
   name             : "Francesco Merletti"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Tinkerer, wanderer, veggie-lover. Currently making software at the BBC."
+  bio              : "Tinkerer, wanderer, veggie-lover. Currently making software at the BBC. Previously organising archives for the Olympics."
   location         : "London, UK"
   email            : "me@fm.to.it"
   uri              : "https://fm.to.it"
@@ -100,10 +99,10 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "francesco.merletti"
   foursquare       :
   github           : "mjs2020"
-  gitlab           :
+  gitlab           : "mjs2020"
   google_plus      :
   keybase          : "mjs2020"
   instagram        :
@@ -199,6 +198,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:

@@ -1,6 +1,7 @@
 ---
 layout: single
-title: DIY RFID Shield Wallet 
+title: DIY RFID Shield Wallet
+excerpt: A DIY solution to avoid card clash
 header:
   teaser: /assets/posts/2018-04-12-card-clash-wallet/teaser.jpg
 ---

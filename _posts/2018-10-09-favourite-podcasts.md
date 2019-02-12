@@ -5,6 +5,7 @@ toc: true
 toc_label: "Podcasts"
 toc_icon: "headphones-alt"
 toc_sticky: true
+excerpt: Often the best way to discover podcasts is to ask friends "What do you listen to?". I find myself exchanging suggestions often and decided to make a list here.
 header:
   teaser: /assets/posts/2018-10-10-favourite-podcasts/teaser.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Transfering Thunderbird profile and email archive from Windows to OSX
+excerpt: Managing the transfer of data, messages, contacts from PC to Mac
 header:
   teaser: /assets/posts/2018-06-23-thunderbird-transfer/teaser.png
 ---

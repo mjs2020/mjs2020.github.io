@@ -9,13 +9,13 @@ ruby '2.5.1'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "3.7.3"
+gem "jekyll", "3.7.4"
 gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
-gem "github-pages", "170", group: :jekyll_plugins
+gem "github-pages", "194", group: :jekyll_plugins
 
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
